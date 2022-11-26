@@ -5,5 +5,6 @@ This project is focused on the responsive part with added Javascript ES6 technic
 ## Description
 
 The challenge was to create a project with focus on sharpening the HTML & CSS skills. It was indeed a challenge.
- 
-![](header.png)
+
+
+<img width="1440" alt="header" src="https://user-images.githubusercontent.com/77391015/204096115-66f570aa-7b0c-4726-9896-0f8195139bd3.png">
